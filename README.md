@@ -1,0 +1,1 @@
+"#qrBarcode Reader with Python" 
